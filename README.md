@@ -1,6 +1,17 @@
 # ShopInventory
-This is a simple but well structured Inventory System for shops of any category.
 
+DEVELOPER
+Emmanuel Obeng - emmallob14@gmail.com
+https://github.com/emmallob14
+
+CODEBASE STRUCTURE
+The developer has included some of the codebase of the CodeIgniter Framework into the Source Code of this inventory system. This includes libraries for Session Management, Emails, Form Validations, Sanitizing of user inputs and the likes.
+
+MODIFICATIONS
+You are free to modify the source code of this system and likewise also forward any suggestions to the Developer via email or add a comments to the github repository - https://github.com/emmallob14/ShopInventory
+
+INVENTORY SYSTEM
+This is a simple but well structured Inventory System for shops of any category. The developers will from time to time update the system and include several functionalities that will make the usage of the system much more complete.
 
 INSTALLATION PROCEDURE
 1. Having downloaded the zip file, extract it to your webserver.
