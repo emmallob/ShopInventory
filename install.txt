@@ -13,7 +13,8 @@ This is a simple but well structured Inventory System for shops of any category.
 
 INSTALLATION PROCEDURE
 1. Having downloaded the zip file, extract it to your webserver.
-2. Create a folder of your choice and effect the following changes
+2. In the Assets Folder there is a ZIP FILE, extract assets.zip into the same place.
+3. Create a folder of your choice and effect the following changes
 	a. Open the file - /WEBDIRECTORY/system/config/config.php
 		Line 26 - change the details to your webserver url
 		Line 337 - change the encryption key to your prefered code.
